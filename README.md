@@ -48,7 +48,7 @@ A **frameless, modern analog clock application** built with **PyQt6**, featuring
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/<your-username>/PyQt6-Analog-Clock.git
+   git clone https://github.com/nishanknishankkhadpe7-afk/PyQt6-Analog-Clock.git
    cd PyQt6-Analog-Clock
    ```
 
@@ -78,9 +78,9 @@ The analog clock will launch with your **local time**, **date**, and **battery s
 ```
 CLOCK/
 │
-├─ app.py            # Main application file
-├─ requirements.txt  # Dependencies list
-└─ README.md         # Project documentation
+├─ app.py                    # Main application file
+├─ requirements.txt   # Dependencies list
+└─ README.md       # Project documentation
 ```
 
 ---

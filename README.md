@@ -31,11 +31,11 @@ python app.py
 
 Project Structure:
 
-CLOCK/
-│
-├─ app.py            # Main application file
-├─ requirements.txt  # Project dependencies
-└─ README.md         # Project documentation
+CLOCK
+ │
+ ├─ app.py            # Main application file
+ ├─ requirements.txt  # Project dependencies
+ └─ README.md         # Project documentation
 
 Configuration:
 
